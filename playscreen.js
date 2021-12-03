@@ -53,7 +53,7 @@ if (dialogueNumber == 1)
 
 if (dialogueNumber == 2){
   image(carDeath,-50,100,1000,1000)
-  drawButton("Start Over",250,1500,400,100,[0,0,0],[0,0,0],50,0,true)
+  drawButton("Start Over",250,1500,400,100,[255,0,0],[0,0,0],50,0,true)
 }
 
 if (dialogueNumber == 3)
